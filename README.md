@@ -1,2 +1,3 @@
-# quanttide-specification-of-templates
-量潮模板规范
+# 量潮模板规范
+
+使用cookiecutter进行二次拓展。
